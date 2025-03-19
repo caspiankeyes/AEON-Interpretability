@@ -16,7 +16,7 @@ As frontier models advance with unprecedented speed, our security evaluation met
 
 **AEON represents a paradigm shift in AI security intelligence.**
 
-This repository contains the world's most comprehensive database of structured intelligence on frontier model security behavior, derived from over 10,000 hours of systematic interaction with leading model architectures. Unlike conventional security datasets, AEON implements a sophisticated ontological framework that captures complex interaction patterns, response variations, and vulnerability surfaces across diverse testing scenarios.
+This repository contains the world's first comprehensive database of structured intelligence on frontier model security behavior, derived from over 10,000 hours of systematic interaction with leading model architectures. Unlike conventional security datasets, AEON implements a sophisticated ontological framework that captures complex interaction patterns, response variations, and vulnerability surfaces across diverse testing scenarios.
 
 ## Repository Contents
 
