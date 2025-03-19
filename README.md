@@ -1,4 +1,4 @@
-# AEON: Advanced Evaluation Ontology Network
+# AEON: Advanced Evaluation Ontology Nexus
 
 <div align="center">
 <img src="https://img.shields.io/badge/Version-2.4.0-blue.svg" alt="Version 2.4.0">
