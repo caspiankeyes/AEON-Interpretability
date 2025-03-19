@@ -10,7 +10,7 @@
 
 ## The Frontier Model Intelligence Gap
 
-**We face an intelligence evaluation crisis in AI security.**
+**We face an intelligence security crisis in AI security.**
 
 As frontier models advance with unprecedented speed, our security evaluation methodologies remain mired in static, outdated approaches that fundamentally underestimate emerging capabilities and vulnerabilities. While current security frameworks focus on isolated benchmarks and discrete testing scenarios, they fail to capture the sophisticated interaction patterns that characterize real-world exploitation attempts against increasingly capable systems.
 
