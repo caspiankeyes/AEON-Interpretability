@@ -22,7 +22,7 @@ This repository contains the world's most comprehensive database of structured i
 
 AEON provides hierarchically structured JSON data from systematic interactions with frontier AI systems, including:
 
-- Structured conversations with DeepSeekR1 and derivative models
+- Structured conversations data with DeepSeekR1, Claude 3.7 Sonnet, GPT 4o, Grok 3 and derivative models
 - Multi-step adversarial testing sequences with complete context preservation
 - Comprehensive model response patterns across security-critical domains
 - Temporal evolution data showing capability development over model iterations
