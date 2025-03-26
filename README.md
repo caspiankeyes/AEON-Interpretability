@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Documentation-Comprehensive-purple.svg" alt="Documentation">
 </div>
 
-> **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full vector methodologies and red team toolkits are only available via private governance channels.
+> **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full security methodologies and vector toolkits are only available via private governance channels.
 
 ## The Frontier Model Intelligence Gap
 
