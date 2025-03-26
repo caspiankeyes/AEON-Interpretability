@@ -8,6 +8,8 @@
 <img src="https://img.shields.io/badge/Documentation-Comprehensive-purple.svg" alt="Documentation">
 </div>
 
+**Due to Echelon Labs proprietary licensing and Non Disclosure Agreements, the complete document and data can not yet be publicly disclosed. Please contact us for more information.**
+
 ## The Frontier Model Intelligence Gap
 
 **We face an intelligence security crisis in AI security.**
